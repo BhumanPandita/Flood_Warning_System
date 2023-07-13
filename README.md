@@ -5,8 +5,13 @@ Flood Warning systems using machine learning algorithms
 This project focuses on flood prediction in the state of Kerala.
 
 The objective is to develop machine learning models that can accurately predict the occurrence of floods based on 
-various features such as rainfall data. The project explores six algorithms: Logistic Regression, k-Nearest Neighbors,
-Decision Trees, Random Forests, Naive Bayes, and Support Vector Machines. 
+various features, such as monthly and annual rainfall index. The project explores six algorithms:
+1)Logistic Regression,
+2)K-Nearest Neighbors
+3)Decision Trees
+4)Random Forests
+5)Naive Bayes
+6)Support Vector Machines. 
 
 By comparing the performance of these algorithms, we aim to identify the most effective approach
 for flood prediction in Kerala.
