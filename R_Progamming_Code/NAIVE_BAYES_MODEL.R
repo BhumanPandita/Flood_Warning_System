@@ -8,7 +8,7 @@ library(glmnet)
 library(e1071)
 
 ##### IMPORTING THE DATASET
-kerala <- read.csv("~/Downloads/kerala.csv")
+kerala <- read.csv("kerala.csv")
 
 ##### EXTRACTING A PART OF THE DATASET 
 ker_new <- kerala[,3:16]
