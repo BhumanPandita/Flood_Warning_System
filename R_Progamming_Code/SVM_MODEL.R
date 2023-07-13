@@ -8,7 +8,7 @@ library(glmnet)
 library(e1071)
 
 ##### IMPORTING THE DATASET
-kerala <- read_excel("Documents/PS1/kerala.xlsx")
+kerala <- read_excel("kerala.xlsx")
 
 ##### EXTRACTING A PART OF THE DATASET 
 ker_new <- kerala[,3:16]
